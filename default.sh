@@ -25,6 +25,7 @@ EXTENSIONS=(
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
+    "https://github.com/Mikubill/sd-webui-controlnet"
 )
 
 CHECKPOINT_MODELS=(
@@ -37,14 +38,14 @@ CHECKPOINT_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/half_ponytail_hairstyle-10.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/long_hime_cut_hairstyle.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/long_ponytail_hairstyle.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/middle_parting_hairstyle.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/pigtail_hairstyle.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/ponytail_weave_hairstyle.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/short_pigtail_hairstyle05.safetensors"
-    "https://huggingface.co/diamond97/self/resolve/main/hair/side_swept_hair-05.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/half_ponytail_hairstyle-10.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/long_hime_cut_hairstyle.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/long_ponytail_hairstyle.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/middle_parting_hairstyle.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/pigtail_hairstyle.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/ponytail_weave_hairstyle.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/short_pigtail_hairstyle05.safetensors"
+    #"https://huggingface.co/diamond97/self/resolve/main/hair/side_swept_hair-05.safetensors"
 )
 
 VAE_MODELS=(
@@ -79,6 +80,7 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_seg-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
+    "https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth"
 )
 
 
