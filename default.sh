@@ -46,9 +46,9 @@ LORA_MODELS=(
     #"https://huggingface.co/diamond97/self/resolve/main/hair/ponytail_weave_hairstyle.safetensors"
     #"https://huggingface.co/diamond97/self/resolve/main/hair/short_pigtail_hairstyle05.safetensors"
     #"https://huggingface.co/diamond97/self/resolve/main/hair/side_swept_hair-05.safetensors"
-    "https://civitai.com/api/download/models/243990?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/109807?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/665740"
+    #"https://civitai.com/api/download/models/243990?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/109807?type=Model&format=SafeTensor"
+    #"https://civitai.com/api/download/models/665740"
 )
 
 VAE_MODELS=(
